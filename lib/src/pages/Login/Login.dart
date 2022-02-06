@@ -26,7 +26,7 @@ class _LoginState extends State<Login> {
       ),
       home: Scaffold(
         resizeToAvoidBottomInset: true,
-        backgroundColor: Color.fromRGBO(33, 32, 45, 1.0),
+        backgroundColor: Color(0xff101010),
         body: LoginScreen(),
         bottomNavigationBar: BottomAppBar(
             color: Colors.transparent,

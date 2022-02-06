@@ -19,15 +19,15 @@ class AboutUS extends StatelessWidget {
           email: 'hubert.loetsch@hotmail.com',
           //textFont: 'Sail',
         ),
-        backgroundColor: Colors.black,
+        backgroundColor: Color(0xff101010),
         body: ContactUs(
             cardColor: Colors.white,
-            textColor: Colors.black,
+            textColor: Color(0xff101010),
             email: 'hubert.loetsch@hotmail.com',
             companyName: 'Unia',
             companyColor: Colors.red,
             dividerThickness: 2,
-            phoneNumber: '+917818044311',
+            phoneNumber: '06642596821',
             website: '',
       ),
 
